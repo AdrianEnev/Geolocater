@@ -28,6 +28,8 @@ cp .env.example .env
 
 ## Documentation
 
+The listed documentation files are not yet finished and have been set up as templates temporarily
+
 - [Configuration](docs/CONFIGURATION.md)
 - [Getting Started](docs/GETTING_STARTED.md)
 - [API Reference](docs/API_REFERENCE.md)
